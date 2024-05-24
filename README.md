@@ -15,7 +15,6 @@
  
  🔭 I’m currently studing in IMT
  
- 🌱 I’m currently learning React Native, Java and C++
 
 
  </div>
