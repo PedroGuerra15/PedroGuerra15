@@ -5,7 +5,7 @@
 </h1>
 
 <h2 align="center">About Me:</h2>
-<h3 align="center">Olá! Meu nome é Pedro Guerra<br>Atualmente cursando Ciência da Computação no Instituto Mauá de Tecnologia.<br></h3>
+<h3 align="center">Olá! Meu nome é Pedro Guerra<br>Sou uma palmeirensezinha safada! <br> Oque faço de código faço de blow rsrs <br> Atualmente cursando Ciência da Computação no Instituto Mauá de Tecnologia.<br></h3>
 
 <h3 align="center">Hello! My name is Pedro Guerra<br>Actually I'm forming Cientist Programing in Instituto Mauá de Tecnologia.<br></h3>
 
