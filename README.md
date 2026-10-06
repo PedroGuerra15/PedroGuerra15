@@ -39,10 +39,4 @@
 
 <br/>
 
-<div>
-    <a href="https://beacons.ai/taldojerra">
-    <img height="180em" src="https://github-redme-stats.vercel.app/api?username=taldojerra&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-redme-stats.vercel.app/api/top-langs/?username=taldojerra&layout=compact&langs_count=16&theme=vue-dark"/>
-</div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=taldojerra&theme=vue-dark&hide_border=false)<br/>
